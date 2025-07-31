@@ -17,7 +17,7 @@ A comprehensive Rockstar Editor integration script for FiveM servers running the
 1. Place the script in your server's resources folder
 2. Add the following to your `server.cfg`:
    ```
-   ensure Fs-RockstarEditor
+   ensure Aiben_rockstareditor
    ```
 3. Make sure you have the required dependencies:
    - `es_extended`
